@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/nd1982/github-flows-actions-tools/compare/v0.0.1...v0.1.0) (2025-11-27)
+
+
+### Features
+
+* added a new feature ([bccaa4e](https://github.com/nd1982/github-flows-actions-tools/commit/bccaa4edbe68811acc4f92776e5506870edbcd35))
+
+
+### Bug Fixes
+
+* fixed the typo ([6a48808](https://github.com/nd1982/github-flows-actions-tools/commit/6a488088ad9fbb93de30d2c403e80e3cd96b39bf))
+
 ## 0.0.1 (2025-11-27)
 
 
